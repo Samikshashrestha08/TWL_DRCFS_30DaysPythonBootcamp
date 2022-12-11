@@ -7,7 +7,7 @@ for _ in range(5):
     paper='paper'
     scissor='scissor'
     if player_1==rock and player_2==rock:
-        print('its a toie')
+        print('its a tie')
     elif player_1==scissor and player_2==scissor:
         print('its a tie') 
     elif player_1==paper and player_2==paper:
